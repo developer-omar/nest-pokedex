@@ -21,6 +21,10 @@ docker compose up -d
 ```
 yarn start:dev
 ```
+6. Detener la base de datos
+```
+docker compose down
+```
 
 ## Stack Usado
 * MongoDB
